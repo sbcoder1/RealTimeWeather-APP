@@ -1,0 +1,5 @@
+mysql-connector-python  # For MySQL database connectivity
+pandas                  # For data manipulation and analysis
+matplotlib              # For data visualization
+requests                # For making API calls
+python-dotenv           # For managing environment variables 
